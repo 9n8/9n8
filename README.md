@@ -1,6 +1,10 @@
  ![](https://komarev.com/ghpvc/?username=herluvhr&color=blueviolet)
 
-
+<p align="center">
+  <a href="https://discord.com/users/852861443128033290">
+    <img src="https://discord.c99.nl/widget/theme-2/852861443128033290.png"/>
+     </a>
+</p>
 
 ------
 <p align="center">  
