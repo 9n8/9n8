@@ -1,4 +1,7 @@
- ![](https://komarev.com/ghpvc/?username=herluvhr&color=blueviolet)
+<p align="center">
+  <a href="https://github.com/herluvhr">
+    <img src="https://komarev.com/ghpvc/?username=herluvhr&color=blueviolet"/>
+     </a>
 
 <p align="center">
   <a href="https://discord.com/users/852861443128033290">
