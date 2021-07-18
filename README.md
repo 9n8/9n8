@@ -1,3 +1,6 @@
+ ![](https://komarev.com/ghpvc/?username=herluvhr&color=blueviolet)
+
+
 
 ------
 <p align="center">  
@@ -7,6 +10,7 @@
     @II1337
 <p align="center">
 ------
+  
 </p>
 <p align="center">
 <a href="https://discord.com/users/852861443128033290">discord</a>
@@ -25,7 +29,8 @@
 ## status
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=herluvhr&show_icons=true&theme=tokyonight" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herluvhr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herluvhr&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
+
 
 
 
