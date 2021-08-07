@@ -29,7 +29,7 @@
 <p align="center">
 ------
 <p align="center">  
-<a href="https://discord.gg/dreaming"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/guapo"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/vyg"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
+<a href="https://discord.gg/photo"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/83"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> <a href="https://discord.gg/vyg"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
   
 -----------
 
