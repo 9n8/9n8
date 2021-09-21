@@ -14,13 +14,13 @@
   <img src="https://i.imgur.com/zbdJ5cX.gif" alt="Avatar">
 </p>
 <p align="center">
-    @pw1337
+    @II1337
 <p align="center">
 ------
   
 </p>
 <p align="center">
-<a href="https://discord.com/users/852861443128033290">discord</a>
+<a href="https://discord.com/users/852672813878083635">discord</a>
     ・
     <a href="https://www.instagram.com/herluvhr/">instagram</a>
     ・
