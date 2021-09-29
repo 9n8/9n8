@@ -4,8 +4,8 @@
      </a>
 
 <p align="center">
-  <a href="https://discord.com/users/852861443128033290">
-    <img src="https://lanyard-profile-readme.vercel.app/api/852861443128033290"/>
+  <a href="https://discord.com/users/852672813878083635">
+    <img src="https://lanyard-profile-readme.vercel.app/api/852672813878083635"/>
      </a>
 </p>
 
