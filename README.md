@@ -8,15 +8,6 @@
     <img src="https://lanyard-profile-readme.vercel.app/api/852672813878083635"/>
      </a>
 </p>
-
-------
-<p align="center">  
-  <img src="https://i.imgur.com/zbdJ5cX.gif" alt="Avatar">
-</p>
-<p align="center">
-    @usr#0098
-<p align="center">
-------
   
 -----------
 
