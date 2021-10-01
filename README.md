@@ -18,19 +18,6 @@
 <p align="center">
 ------
   
-</p>
-<p align="center">
-<a href="https://discord.com/users/852672813878083635">discord</a>
-    ・
-    <a href="https://www.instagram.com/herluvhr/">instagram</a>
-    ・
-    <a href="https://github.com/uo2">github</a>
-</p>
-<p align="center">
-------
-<p align="center">  
-<a href="https://discord.gg/photo"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a> 
-  
 -----------
 
 ## status
