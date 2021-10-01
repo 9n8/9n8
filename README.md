@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/herluvhr">
     <img src="https://komarev.com/ghpvc/?username=uo2&color=blueviolet"/>
-     </a
+     </a>
 
 <p align="center">
   <a href="https://discord.com/users/852672813878083635">
