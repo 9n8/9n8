@@ -1,13 +1,9 @@
 <p align="center">
-  <a href="https://github.com/herluvhr">
+  <a href="https://github.com/9n8">
     <img src="https://komarev.com/ghpvc/?username=9n8&color=blueviolet"/>
      </a>
 
-<p align="center">
-  <a href="https://discord.com/users/852672813878083635">
-    <img src="https://lanyard-profile-readme.vercel.app/api/852672813878083635"/>
-     </a>
-</p>
+
   
 -----------
 
